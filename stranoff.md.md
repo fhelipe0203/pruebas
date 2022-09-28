@@ -1,4 +1,4 @@
-#strogonoff de frango#
+#strogonoff de frango# Octavio
 ingredientes
 *1 quilo de peito de frango
 *1 tableta de caldo de galinha
