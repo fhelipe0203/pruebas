@@ -1,0 +1,1 @@
+el nombre de la propiedad de un objeto puede ser cualquier cadena valida de java, o cualquier cosa que se pueda convertir, incluyendo una cadena vacía. sin embargo, cualquier nombre de propiedadd que no sea identificador válido de javascript(por ejemplo, el nombre  de propiedad que no sea un identifi
